@@ -11,12 +11,12 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "동우리 블로그"
+title                    : "chauchau's Blog"
 title_separator          : "-"
 name                     : "chauchau0"
 description              : "게임 디자이너의 생각 정리 "
@@ -292,4 +292,4 @@ defaults:
       related: true
 
 
-remote_theme : mmistakes/minimal-mistakes
+
